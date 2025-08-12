@@ -8,7 +8,7 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=DavidGold54" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidGold54&margin-w=5)](https://github.com/DavidGold54/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavidGold54&margin-w=5&rank=-?)](https://github.com/DavidGold54/)
 
 ## 📨 Contact
 
