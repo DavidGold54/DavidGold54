@@ -1,5 +1,18 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidGold54&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGold54&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## ⭐️ About DavidGold54
+
+
+## 📈 Status
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGold54&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=DavidGold54" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavidGold54&margin-w=5)](https://github.com/DavidGold54/)
+
+## 📨 Contact
+
+
 
 <!--
 **DavidGold54/DavidGold54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
